@@ -1,0 +1,211 @@
+item_id,title,description,date,time,person,priority,source_message_id
+TASK_MSG_0001,"For today: Calendar update: family dinner, 2026-09-19 at 10:","For today: Calendar update: family dinner, 2026-09-19 at 10:00, the library.",2026-09-19,10:00,,medium,MSG_0001
+TASK_MSG_0002,Can you review the privacy checklist before 2026-09-09?,Can you review the privacy checklist before 2026-09-09?,2026-09-09,,,medium,MSG_0002
+TASK_MSG_0003,FYI: Reminder: mentor catch-up happens on 2026-09-16 at 11:0,FYI: Reminder: mentor catch-up happens on 2026-09-16 at 11:00 in the city clinic.,2026-09-16,11:00,,medium,MSG_0003
+TASK_MSG_0019,Can you help? I need you to review the model results by 2026,Can you help? I need you to review the model results by 2026-09-03.,2026-09-03,,,medium,MSG_0019
+TASK_MSG_0024,Just checking—I might prefer evening meetings now.,Just checking—I might prefer evening meetings now.,,,,medium,MSG_0024
+TASK_MSG_0033,Just checking—The event registration desk opens at 9 AM.,Just checking—The event registration desk opens at 9 AM.,,,,medium,MSG_0033
+TASK_MSG_0035,For today: Complete the onboarding form is due on 2026-09-10,For today: Complete the onboarding form is due on 2026-09-10.,2026-09-10,,,medium,MSG_0035
+TASK_MSG_0037,One more thing: The review could be Friday afternoon.,One more thing: The review could be Friday afternoon.,,,,medium,MSG_0037
+TASK_MSG_0041,"For today: If possible, review the file before the meeting.","For today: If possible, review the file before the meeting.",,,,medium,MSG_0041
+TASK_MSG_0042,For today: The client discussion is scheduled for 2026-09-12,For today: The client discussion is scheduled for 2026-09-12 at 11:00 in Meeting Room A.,2026-09-12,11:00,,medium,MSG_0042
+TASK_MSG_0043,"Quick update: Calendar update: family dinner, 2026-09-04 at ","Quick update: Calendar update: family dinner, 2026-09-04 at 11:00, the college auditorium.",2026-09-04,11:00,,medium,MSG_0043
+TASK_MSG_0044,Just checking—Please complete the Python exercise by 2026-09,Just checking—Please complete the Python exercise by 2026-09-09.,2026-09-09,,,medium,MSG_0044
+TASK_MSG_0045,Important: Complete the onboarding form is due on 2026-09-07,Important: Complete the onboarding form is due on 2026-09-07.,2026-09-07,,,medium,MSG_0045
+TASK_MSG_0046,For today: Don't forget to call the service centre; deadline,For today: Don't forget to call the service centre; deadline is 2026-09-09.,2026-09-09,,,medium,MSG_0046
+TASK_MSG_0051,Important: Reminder: doctor appointment happens on 2026-09-1,Important: Reminder: doctor appointment happens on 2026-09-16 at 15:00 in the city clinic.,2026-09-16,15:00,,medium,MSG_0051
+TASK_MSG_0054,Just checking—The review could be Friday afternoon.,Just checking—The review could be Friday afternoon.,,,,medium,MSG_0054
+TASK_MSG_0056,Please note: Please call Maya when you are free.,Please note: Please call Maya when you are free.,,,,medium,MSG_0056
+TASK_MSG_0058,Quick update: Can you review the privacy checklist before 20,Quick update: Can you review the privacy checklist before 2026-09-04?,2026-09-04,,,medium,MSG_0058
+TASK_MSG_0060,Quick update: Complete the onboarding form is due on 2026-09,Quick update: Complete the onboarding form is due on 2026-09-08.,2026-09-08,,,medium,MSG_0060
+TASK_MSG_0064,Can you help? The event registration desk opens at 9 AM.,Can you help? The event registration desk opens at 9 AM.,,,,medium,MSG_0064
+TASK_MSG_0066,Can you help? The project review is scheduled for 2026-09-02,Can you help? The project review is scheduled for 2026-09-02 at 9:00 in Meeting Room A.,2026-09-02,,,medium,MSG_0066
+TASK_MSG_0084,"Hi, I might prefer evening meetings now.","Hi, I might prefer evening meetings now.",,,,medium,MSG_0084
+TASK_MSG_0089,Just checking—Don't forget to call the service centre; deadl,Just checking—Don't forget to call the service centre; deadline is 2026-09-04.,2026-09-04,,,medium,MSG_0089
+TASK_MSG_0096,Quick update: The event registration desk opens at 9 AM.,Quick update: The event registration desk opens at 9 AM.,,,,medium,MSG_0096
+TASK_MSG_0098,Quick update: The review could be Friday afternoon.,Quick update: The review could be Friday afternoon.,,,,medium,MSG_0098
+TASK_MSG_0100,"Hi, Reminder: sprint planning happens on 2026-09-16 at 11:00","Hi, Reminder: sprint planning happens on 2026-09-16 at 11:00 in the city clinic.",2026-09-16,11:00,,medium,MSG_0100
+TASK_MSG_0110,"FYI: If possible, review the file before the meeting.","FYI: If possible, review the file before the meeting.",,,,medium,MSG_0110
+TASK_MSG_0111,FYI: I need you to review the model results by 2026-09-10.,FYI: I need you to review the model results by 2026-09-10.,2026-09-10,,,medium,MSG_0111
+TASK_MSG_0114,Please complete the Python exercise by 2026-09-08.,Please complete the Python exercise by 2026-09-08.,2026-09-08,,,medium,MSG_0114
+TASK_MSG_0115,Quick update: Don't forget to call the service centre; deadl,Quick update: Don't forget to call the service centre; deadline is 2026-09-07.,2026-09-07,,,medium,MSG_0115
+TASK_MSG_0121,"Hi, Please call Maya when you are free.","Hi, Please call Maya when you are free.",,,,medium,MSG_0121
+TASK_MSG_0122,"Hi, Reminder: mentor catch-up happens on 2026-09-11 at 14:00","Hi, Reminder: mentor catch-up happens on 2026-09-11 at 14:00 in the cafeteria.",2026-09-11,14:00,,medium,MSG_0122
+TASK_MSG_0124,Please note: Reminder: mentor catch-up happens on 2026-09-06,Please note: Reminder: mentor catch-up happens on 2026-09-06 at 9:00 in the city clinic.,2026-09-06,,,medium,MSG_0124
+TASK_MSG_0127,FYI: Reminder: doctor appointment happens on 2026-09-11 at 1,FYI: Reminder: doctor appointment happens on 2026-09-11 at 14:00 in the cafeteria.,2026-09-11,14:00,,medium,MSG_0127
+TASK_MSG_0131,One more thing: The project review is scheduled for 2026-09-,One more thing: The project review is scheduled for 2026-09-17 at 16:00 in Zoom.,2026-09-17,16:00,,medium,MSG_0131
+TASK_MSG_0135,Quick update: Reminder: mentor catch-up happens on 2026-09-2,Quick update: Reminder: mentor catch-up happens on 2026-09-21 at 16:00 in the cafeteria.,2026-09-21,16:00,,medium,MSG_0135
+TASK_MSG_0141,For today: The event registration desk opens at 9 AM.,For today: The event registration desk opens at 9 AM.,,,,medium,MSG_0141
+TASK_MSG_0144,Please note: Don't forget to call the service centre; deadli,Please note: Don't forget to call the service centre; deadline is 2026-09-05.,2026-09-05,,,medium,MSG_0144
+TASK_MSG_0145,FYI: Please complete the Python exercise by 2026-09-04.,FYI: Please complete the Python exercise by 2026-09-04.,2026-09-04,,,medium,MSG_0145
+TASK_MSG_0149,"Hi, The event registration desk opens at 9 AM.","Hi, The event registration desk opens at 9 AM.",,,,medium,MSG_0149
+TASK_MSG_0150,One more thing: Don't forget to call the service centre; dea,One more thing: Don't forget to call the service centre; deadline is 2026-09-03.,2026-09-03,,,medium,MSG_0150
+TASK_MSG_0151,FYI: The project review is scheduled for 2026-09-07 at 10:00,FYI: The project review is scheduled for 2026-09-07 at 10:00 in Zoom.,2026-09-07,10:00,,medium,MSG_0151
+TASK_MSG_0160,Important: Please submit the weekly report by 2026-09-05.,Important: Please submit the weekly report by 2026-09-05.,2026-09-05,,,medium,MSG_0160
+TASK_MSG_0163,FYI: Don't forget to call the service centre; deadline is 20,FYI: Don't forget to call the service centre; deadline is 2026-09-08.,2026-09-08,,,medium,MSG_0163
+TASK_MSG_0169,Important: Reminder: sprint planning happens on 2026-09-06 a,Important: Reminder: sprint planning happens on 2026-09-06 at 9:00 in the city clinic.,2026-09-06,,,medium,MSG_0169
+TASK_MSG_0170,FYI: Share the meeting notes is due on 2026-09-05.,FYI: Share the meeting notes is due on 2026-09-05.,2026-09-05,,,medium,MSG_0170
+TASK_MSG_0173,One more thing: I need you to review the model results by 20,One more thing: I need you to review the model results by 2026-09-05.,2026-09-05,,,medium,MSG_0173
+TASK_MSG_0175,Just checking—I need you to review the model results by 2026,Just checking—I need you to review the model results by 2026-09-06.,2026-09-06,,,medium,MSG_0175
+TASK_MSG_0177,FYI: Reminder: sprint planning happens on 2026-09-21 at 16:0,FYI: Reminder: sprint planning happens on 2026-09-21 at 16:00 in the cafeteria.,2026-09-21,16:00,,medium,MSG_0177
+TASK_MSG_0189,FYI: I might prefer evening meetings now.,FYI: I might prefer evening meetings now.,,,,medium,MSG_0189
+TASK_MSG_0190,"If possible, review the file before the meeting.","If possible, review the file before the meeting.",,,,medium,MSG_0190
+TASK_MSG_0193,Please call Maya when you are free.,Please call Maya when you are free.,,,,medium,MSG_0193
+TASK_MSG_0197,Please note: The event registration desk opens at 9 AM.,Please note: The event registration desk opens at 9 AM.,,,,medium,MSG_0197
+TASK_MSG_0198,"Hi, If possible, review the file before the meeting.","Hi, If possible, review the file before the meeting.",,,,medium,MSG_0198
+TASK_MSG_0204,FYI: Personal note: i usually study after dinner.,FYI: Personal note: i usually study after dinner.,,,,medium,MSG_0204
+TASK_MSG_0208,Quick update: Please submit the weekly report by 2026-09-06.,Quick update: Please submit the weekly report by 2026-09-06.,2026-09-06,,,medium,MSG_0208
+TASK_MSG_0213,FYI: The review could be Friday afternoon.,FYI: The review could be Friday afternoon.,,,,medium,MSG_0213
+TASK_MSG_0215,For today: Can you review the privacy checklist before 2026-,For today: Can you review the privacy checklist before 2026-09-06?,2026-09-06,,,medium,MSG_0215
+TASK_MSG_0216,Important: The project review is scheduled for 2026-09-12 at,Important: The project review is scheduled for 2026-09-12 at 11:00 in Meeting Room A.,2026-09-12,11:00,,medium,MSG_0216
+TASK_MSG_0217,Please note: The review could be Friday afternoon.,Please note: The review could be Friday afternoon.,,,,medium,MSG_0217
+TASK_MSG_0218,Reminder: sprint planning happens on 2026-09-16 at 15:00 in ,Reminder: sprint planning happens on 2026-09-16 at 15:00 in the city clinic.,2026-09-16,15:00,,medium,MSG_0218
+TASK_MSG_0224,One more thing: The event registration desk opens at 9 AM.,One more thing: The event registration desk opens at 9 AM.,,,,medium,MSG_0224
+TASK_MSG_0228,"One more thing: Just so you know, i prefer morning meetings.","One more thing: Just so you know, i prefer morning meetings.",,,,medium,MSG_0228
+TASK_MSG_0245,One more thing: Please complete the Python exercise by 2026-,One more thing: Please complete the Python exercise by 2026-09-08.,2026-09-08,,,medium,MSG_0245
+TASK_MSG_0249,Important: Reminder: mentor catch-up happens on 2026-09-21 a,Important: Reminder: mentor catch-up happens on 2026-09-21 at 12:00 in the cafeteria.,2026-09-21,12:00,,medium,MSG_0249
+TASK_MSG_0250,One more thing: Personal note: i usually study after dinner.,One more thing: Personal note: i usually study after dinner.,,,,medium,MSG_0250
+TASK_MSG_0251,Don't forget to call the service centre; deadline is 2026-09,Don't forget to call the service centre; deadline is 2026-09-03.,2026-09-03,,,medium,MSG_0251
+TASK_MSG_0258,One more thing: The client discussion is scheduled for 2026-,One more thing: The client discussion is scheduled for 2026-09-02 at 13:00 in Meeting Room A.,2026-09-02,13:00,,medium,MSG_0258
+TASK_MSG_0268,Please note: Reminder: sprint planning happens on 2026-09-11,Please note: Reminder: sprint planning happens on 2026-09-11 at 14:00 in the cafeteria.,2026-09-11,14:00,,medium,MSG_0268
+TASK_MSG_0271,For today: Are you available for the design review at 14:00 ,For today: Are you available for the design review at 14:00 on 2026-09-15? Location: the main office.,2026-09-15,14:00,,medium,MSG_0271
+TASK_MSG_0272,"Hi, For my profile, i usually study after dinner.","Hi, For my profile, i usually study after dinner.",,,,medium,MSG_0272
+TASK_MSG_0275,"FYI: Calendar update: family dinner, 2026-09-19 at 14:00, th","FYI: Calendar update: family dinner, 2026-09-19 at 14:00, the library.",2026-09-19,14:00,,medium,MSG_0275
+TASK_MSG_0280,Quick update: Share the meeting notes is due on 2026-09-04.,Quick update: Share the meeting notes is due on 2026-09-04.,2026-09-04,,,medium,MSG_0280
+TASK_MSG_0283,Important: Don't forget to call the service centre; deadline,Important: Don't forget to call the service centre; deadline is 2026-09-06.,2026-09-06,,,medium,MSG_0283
+TASK_MSG_0293,Quick update: Are you available for the design review at 15:,Quick update: Are you available for the design review at 15:00 on 2026-09-20? Location: the training hall.,2026-09-20,15:00,,medium,MSG_0293
+TASK_MSG_0294,Reminder: mentor catch-up happens on 2026-09-11 at 10:00 in ,Reminder: mentor catch-up happens on 2026-09-11 at 10:00 in the cafeteria.,2026-09-11,10:00,,medium,MSG_0294
+TASK_MSG_0306,Please note: I need you to review the model results by 2026-,Please note: I need you to review the model results by 2026-09-07.,2026-09-07,,,medium,MSG_0306
+TASK_MSG_0319,Quick update: Remember that i prefer morning meetings.,Quick update: Remember that i prefer morning meetings.,,,,medium,MSG_0319
+TASK_MSG_0321,For today: Personal note: i usually study after dinner.,For today: Personal note: i usually study after dinner.,,,,medium,MSG_0321
+TASK_MSG_0331,Can you help? Complete the onboarding form is due on 2026-09,Can you help? Complete the onboarding form is due on 2026-09-02.,2026-09-02,,,medium,MSG_0331
+TASK_MSG_0338,"Hi, The product demo is scheduled for 2026-09-12 at 15:00 in","Hi, The product demo is scheduled for 2026-09-12 at 15:00 in Meeting Room A.",2026-09-12,15:00,,medium,MSG_0338
+TASK_MSG_0342,Can you help? The product demo is scheduled for 2026-09-12 a,Can you help? The product demo is scheduled for 2026-09-12 at 11:00 in Meeting Room A.,2026-09-12,11:00,,medium,MSG_0342
+TASK_MSG_0355,Just checking—Personal note: i usually study after dinner.,Just checking—Personal note: i usually study after dinner.,,,,medium,MSG_0355
+TASK_MSG_0356,FYI: The client discussion is scheduled for 2026-09-12 at 15,FYI: The client discussion is scheduled for 2026-09-12 at 15:00 in Meeting Room A.,2026-09-12,15:00,,medium,MSG_0356
+TASK_MSG_0357,Just checking—The project review is scheduled for 2026-09-17,Just checking—The project review is scheduled for 2026-09-17 at 12:00 in Zoom.,2026-09-17,12:00,,medium,MSG_0357
+TASK_MSG_0363,Can you help? Are you available for the design review at 9:0,Can you help? Are you available for the design review at 9:00 on 2026-09-10? Location: the training hall.,2026-09-10,,,medium,MSG_0363
+TASK_MSG_0369,Please note: Please submit the weekly report by 2026-09-04.,Please note: Please submit the weekly report by 2026-09-04.,2026-09-04,,,medium,MSG_0369
+TASK_MSG_0371,Can you help? Remember that i prefer morning meetings.,Can you help? Remember that i prefer morning meetings.,,,,medium,MSG_0371
+TASK_MSG_0372,"FYI: Just so you know, i prefer morning meetings.","FYI: Just so you know, i prefer morning meetings.",,,,medium,MSG_0372
+TASK_MSG_0377,"One more thing: If possible, review the file before the meet","One more thing: If possible, review the file before the meeting.",,,,medium,MSG_0377
+TASK_MSG_0379,One more thing: Please submit the weekly report by 2026-09-0,One more thing: Please submit the weekly report by 2026-09-02.,2026-09-02,,,medium,MSG_0379
+TASK_MSG_0382,For today: The project review is scheduled for 2026-09-07 at,For today: The project review is scheduled for 2026-09-07 at 14:00 in Zoom.,2026-09-07,14:00,,medium,MSG_0382
+TASK_MSG_0396,"Hi, Please complete the Python exercise by 2026-09-07.","Hi, Please complete the Python exercise by 2026-09-07.",2026-09-07,,,medium,MSG_0396
+TASK_MSG_0398,FYI: Complete the onboarding form is due on 2026-09-09.,FYI: Complete the onboarding form is due on 2026-09-09.,2026-09-09,,,medium,MSG_0398
+TASK_MSG_0402,One more thing: I might prefer evening meetings now.,One more thing: I might prefer evening meetings now.,,,,medium,MSG_0402
+TASK_MSG_0405,Quick update: Reminder: doctor appointment happens on 2026-0,Quick update: Reminder: doctor appointment happens on 2026-09-16 at 11:00 in the city clinic.,2026-09-16,11:00,,medium,MSG_0405
+TASK_MSG_0408,Remember that i prefer morning meetings.,Remember that i prefer morning meetings.,,,,medium,MSG_0408
+TASK_MSG_0410,Can you help? Please call Maya when you are free.,Can you help? Please call Maya when you are free.,,,,medium,MSG_0410
+TASK_MSG_0414,One more thing: Are you available for the design review at 1,One more thing: Are you available for the design review at 16:00 on 2026-09-05? Location: the main office.,2026-09-05,16:00,,medium,MSG_0414
+TASK_MSG_0420,One more thing: Complete the onboarding form is due on 2026-,One more thing: Complete the onboarding form is due on 2026-09-04.,2026-09-04,,,medium,MSG_0420
+TASK_MSG_0422,Quick update: Please complete the Python exercise by 2026-09,Quick update: Please complete the Python exercise by 2026-09-03.,2026-09-03,,,medium,MSG_0422
+TASK_MSG_0423,Quick update: The product demo is scheduled for 2026-09-02 a,Quick update: The product demo is scheduled for 2026-09-02 at 9:00 in Meeting Room A.,2026-09-02,,,medium,MSG_0423
+TASK_MSG_0424,Just checking—Reminder: sprint planning happens on 2026-09-1,Just checking—Reminder: sprint planning happens on 2026-09-11 at 10:00 in the cafeteria.,2026-09-11,10:00,,medium,MSG_0424
+TASK_MSG_0425,Important: I need you to review the model results by 2026-09,Important: I need you to review the model results by 2026-09-08.,2026-09-08,,,medium,MSG_0425
+TASK_MSG_0427,Please note: The project review is scheduled for 2026-09-17 ,Please note: The project review is scheduled for 2026-09-17 at 16:00 in Zoom.,2026-09-17,16:00,,medium,MSG_0427
+TASK_MSG_0431,The event registration desk opens at 9 AM.,The event registration desk opens at 9 AM.,,,,medium,MSG_0431
+TASK_MSG_0435,"Can you help? Calendar update: family dinner, 2026-09-14 at ","Can you help? Calendar update: family dinner, 2026-09-14 at 13:00, the college auditorium.",2026-09-14,13:00,,medium,MSG_0435
+TASK_MSG_0437,"For today: Just so you know, i prefer morning meetings.","For today: Just so you know, i prefer morning meetings.",,,,medium,MSG_0437
+TASK_MSG_0438,One more thing: Please call Maya when you are free.,One more thing: Please call Maya when you are free.,,,,medium,MSG_0438
+TASK_MSG_0441,"Can you help? For my profile, i usually study after dinner.","Can you help? For my profile, i usually study after dinner.",,,,medium,MSG_0441
+TASK_MSG_0452,Important: The event registration desk opens at 9 AM.,Important: The event registration desk opens at 9 AM.,,,,medium,MSG_0452
+TASK_MSG_0456,Just checking—The client discussion is scheduled for 2026-09,Just checking—The client discussion is scheduled for 2026-09-02 at 9:00 in Meeting Room A.,2026-09-02,,,medium,MSG_0456
+TASK_MSG_0457,"Can you help? If possible, review the file before the meetin","Can you help? If possible, review the file before the meeting.",,,,medium,MSG_0457
+TASK_MSG_0462,Can you help? The review could be Friday afternoon.,Can you help? The review could be Friday afternoon.,,,,medium,MSG_0462
+TASK_MSG_0465,"Hi, Reminder: doctor appointment happens on 2026-09-06 at 9:","Hi, Reminder: doctor appointment happens on 2026-09-06 at 9:00 in the city clinic.",2026-09-06,,,medium,MSG_0465
+TASK_MSG_0467,I need you to review the model results by 2026-09-05.,I need you to review the model results by 2026-09-05.,2026-09-05,,,medium,MSG_0467
+TASK_MSG_0479,"Hi, Calendar update: family dinner, 2026-09-14 at 9:00, the ","Hi, Calendar update: family dinner, 2026-09-14 at 9:00, the college auditorium.",2026-09-14,,,medium,MSG_0479
+TASK_MSG_0481,Please note: Can you review the privacy checklist before 202,Please note: Can you review the privacy checklist before 2026-09-02?,2026-09-02,,,medium,MSG_0481
+TASK_MSG_0487,Just checking—Can you review the privacy checklist before 20,Just checking—Can you review the privacy checklist before 2026-09-10?,2026-09-10,,,medium,MSG_0487
+TASK_MSG_0488,For today: Reminder: mentor catch-up happens on 2026-09-16 a,For today: Reminder: mentor catch-up happens on 2026-09-16 at 15:00 in the city clinic.,2026-09-16,15:00,,medium,MSG_0488
+TASK_MSG_0489,Please note: I might prefer evening meetings now.,Please note: I might prefer evening meetings now.,,,,medium,MSG_0489
+TASK_MSG_0493,Important: The review could be Friday afternoon.,Important: The review could be Friday afternoon.,,,,medium,MSG_0493
+TASK_MSG_0495,Quick update: Please call Maya when you are free.,Quick update: Please call Maya when you are free.,,,,medium,MSG_0495
+TASK_MSG_0500,"Hi, Remember that i prefer morning meetings.","Hi, Remember that i prefer morning meetings.",,,,medium,MSG_0500
+TASK_MSG_0501,Important: Remember that i prefer morning meetings.,Important: Remember that i prefer morning meetings.,,,,medium,MSG_0501
+TASK_MSG_0503,Can you help? Don't forget to call the service centre; deadl,Can you help? Don't forget to call the service centre; deadline is 2026-09-10.,2026-09-10,,,medium,MSG_0503
+TASK_MSG_0510,I might prefer evening meetings now.,I might prefer evening meetings now.,,,,medium,MSG_0510
+TASK_MSG_0511,For today: Reminder: doctor appointment happens on 2026-09-1,For today: Reminder: doctor appointment happens on 2026-09-11 at 10:00 in the cafeteria.,2026-09-11,10:00,,medium,MSG_0511
+TASK_MSG_0522,"Please note: Just so you know, i prefer morning meetings.","Please note: Just so you know, i prefer morning meetings.",,,,medium,MSG_0522
+TASK_MSG_0524,"Just checking—If possible, review the file before the meetin","Just checking—If possible, review the file before the meeting.",,,,medium,MSG_0524
+TASK_MSG_0530,For today: Please submit the weekly report by 2026-09-08.,For today: Please submit the weekly report by 2026-09-08.,2026-09-08,,,medium,MSG_0530
+TASK_MSG_0537,"Hi, I need you to review the model results by 2026-09-04.","Hi, I need you to review the model results by 2026-09-04.",2026-09-04,,,medium,MSG_0537
+TASK_MSG_0544,"Just checking—Just so you know, i prefer morning meetings.","Just checking—Just so you know, i prefer morning meetings.",,,,medium,MSG_0544
+TASK_MSG_0546,"Hi, Complete the onboarding form is due on 2026-09-03.","Hi, Complete the onboarding form is due on 2026-09-03.",2026-09-03,,,medium,MSG_0546
+TASK_MSG_0547,"Hi, Please submit the weekly report by 2026-09-10.","Hi, Please submit the weekly report by 2026-09-10.",2026-09-10,,,medium,MSG_0547
+TASK_MSG_0551,Just checking—Complete the onboarding form is due on 2026-09,Just checking—Complete the onboarding form is due on 2026-09-05.,2026-09-05,,,medium,MSG_0551
+TASK_MSG_0552,Please submit the weekly report by 2026-09-02.,Please submit the weekly report by 2026-09-02.,2026-09-02,,,medium,MSG_0552
+TASK_MSG_0556,"Hi, Share the meeting notes is due on 2026-09-08.","Hi, Share the meeting notes is due on 2026-09-08.",2026-09-08,,,medium,MSG_0556
+TASK_MSG_0559,"Please note: If possible, review the file before the meeting","Please note: If possible, review the file before the meeting.",,,,medium,MSG_0559
+TASK_MSG_0562,FYI: The event registration desk opens at 9 AM.,FYI: The event registration desk opens at 9 AM.,,,,medium,MSG_0562
+TASK_MSG_0565,Are you available for the design review at 9:00 on 2026-09-1,Are you available for the design review at 9:00 on 2026-09-10? Location: the training hall.,2026-09-10,,,medium,MSG_0565
+TASK_MSG_0566,Just checking—Share the meeting notes is due on 2026-09-10.,Just checking—Share the meeting notes is due on 2026-09-10.,2026-09-10,,,medium,MSG_0566
+TASK_MSG_0569,FYI: Can you review the privacy checklist before 2026-09-05?,FYI: Can you review the privacy checklist before 2026-09-05?,2026-09-05,,,medium,MSG_0569
+TASK_MSG_0577,Please note: Please complete the Python exercise by 2026-09-,Please note: Please complete the Python exercise by 2026-09-10.,2026-09-10,,,medium,MSG_0577
+TASK_MSG_0578,One more thing: Can you review the privacy checklist before ,One more thing: Can you review the privacy checklist before 2026-09-09?,2026-09-09,,,medium,MSG_0578
+TASK_MSG_0580,"Important: If possible, review the file before the meeting.","Important: If possible, review the file before the meeting.",,,,medium,MSG_0580
+TASK_MSG_0585,Complete the onboarding form is due on 2026-09-04.,Complete the onboarding form is due on 2026-09-04.,2026-09-04,,,medium,MSG_0585
+TASK_MSG_0592,One more thing: Reminder: doctor appointment happens on 2026,One more thing: Reminder: doctor appointment happens on 2026-09-21 at 12:00 in the cafeteria.,2026-09-21,12:00,,medium,MSG_0592
+TASK_MSG_0601,Please note: Reminder: doctor appointment happens on 2026-09,Please note: Reminder: doctor appointment happens on 2026-09-21 at 12:00 in the cafeteria.,2026-09-21,12:00,,medium,MSG_0601
+TASK_MSG_0603,"Please note: Calendar update: family dinner, 2026-09-09 at 1","Please note: Calendar update: family dinner, 2026-09-09 at 12:00, the library.",2026-09-09,12:00,,medium,MSG_0603
+TASK_MSG_0611,"For my profile, i usually study after dinner.","For my profile, i usually study after dinner.",,,,medium,MSG_0611
+TASK_MSG_0616,FYI: Are you available for the design review at 10:00 on 202,FYI: Are you available for the design review at 10:00 on 2026-09-15? Location: the main office.,2026-09-15,10:00,,medium,MSG_0616
+TASK_MSG_0621,Can you help? Can you review the privacy checklist before 20,Can you help? Can you review the privacy checklist before 2026-09-07?,2026-09-07,,,medium,MSG_0621
+TASK_MSG_0624,Please note: Complete the onboarding form is due on 2026-09-,Please note: Complete the onboarding form is due on 2026-09-06.,2026-09-06,,,medium,MSG_0624
+TASK_MSG_0629,Can you help? I might prefer evening meetings now.,Can you help? I might prefer evening meetings now.,,,,medium,MSG_0629
+TASK_MSG_0632,"Quick update: For my profile, i usually study after dinner.","Quick update: For my profile, i usually study after dinner.",,,,medium,MSG_0632
+TASK_MSG_0634,Important: Please call Maya when you are free.,Important: Please call Maya when you are free.,,,,medium,MSG_0634
+TASK_MSG_0635,"Hi, The review could be Friday afternoon.","Hi, The review could be Friday afternoon.",,,,medium,MSG_0635
+TASK_MSG_0637,Reminder: doctor appointment happens on 2026-09-06 at 13:00 ,Reminder: doctor appointment happens on 2026-09-06 at 13:00 in the city clinic.,2026-09-06,13:00,,medium,MSG_0637
+TASK_MSG_0639,Can you help? Please submit the weekly report by 2026-09-09.,Can you help? Please submit the weekly report by 2026-09-09.,2026-09-09,,,medium,MSG_0639
+TASK_MSG_0643,Can you help? Reminder: sprint planning happens on 2026-09-1,Can you help? Reminder: sprint planning happens on 2026-09-16 at 15:00 in the city clinic.,2026-09-16,15:00,,medium,MSG_0643
+TASK_MSG_0645,Quick update: Reminder: sprint planning happens on 2026-09-0,Quick update: Reminder: sprint planning happens on 2026-09-06 at 13:00 in the city clinic.,2026-09-06,13:00,,medium,MSG_0645
+TASK_MSG_0646,"Calendar update: family dinner, 2026-09-14 at 13:00, the col","Calendar update: family dinner, 2026-09-14 at 13:00, the college auditorium.",2026-09-14,13:00,,medium,MSG_0646
+TASK_MSG_0648,Please note: Personal note: i usually study after dinner.,Please note: Personal note: i usually study after dinner.,,,,medium,MSG_0648
+TASK_MSG_0652,One more thing: Share the meeting notes is due on 2026-09-09,One more thing: Share the meeting notes is due on 2026-09-09.,2026-09-09,,,medium,MSG_0652
+TASK_MSG_0653,"Hi, Can you review the privacy checklist before 2026-09-08?","Hi, Can you review the privacy checklist before 2026-09-08?",2026-09-08,,,medium,MSG_0653
+TASK_MSG_0664,One more thing: Reminder: sprint planning happens on 2026-09,One more thing: Reminder: sprint planning happens on 2026-09-11 at 14:00 in the cafeteria.,2026-09-11,14:00,,medium,MSG_0664
+TASK_MSG_0668,For today: Reminder: sprint planning happens on 2026-09-21 a,For today: Reminder: sprint planning happens on 2026-09-21 at 12:00 in the cafeteria.,2026-09-21,12:00,,medium,MSG_0668
+TASK_MSG_0673,Just checking—Reminder: doctor appointment happens on 2026-0,Just checking—Reminder: doctor appointment happens on 2026-09-21 at 16:00 in the cafeteria.,2026-09-21,16:00,,medium,MSG_0673
+TASK_MSG_0674,Quick update: The project review is scheduled for 2026-09-12,Quick update: The project review is scheduled for 2026-09-12 at 15:00 in Meeting Room A.,2026-09-12,15:00,,medium,MSG_0674
+TASK_MSG_0685,For today: I might prefer evening meetings now.,For today: I might prefer evening meetings now.,,,,medium,MSG_0685
+TASK_MSG_0693,"Hi, The project review is scheduled for 2026-09-02 at 13:00 ","Hi, The project review is scheduled for 2026-09-02 at 13:00 in Meeting Room A.",2026-09-02,13:00,,medium,MSG_0693
+TASK_MSG_0694,Important: Please complete the Python exercise by 2026-09-02,Important: Please complete the Python exercise by 2026-09-02.,2026-09-02,,,medium,MSG_0694
+TASK_MSG_0697,"One more thing: Calendar update: family dinner, 2026-09-09 a","One more thing: Calendar update: family dinner, 2026-09-09 at 12:00, the library.",2026-09-09,12:00,,medium,MSG_0697
+TASK_MSG_0707,Important: The product demo is scheduled for 2026-09-02 at 1,Important: The product demo is scheduled for 2026-09-02 at 13:00 in Meeting Room A.,2026-09-02,13:00,,medium,MSG_0707
+TASK_MSG_0711,Can you help? Reminder: doctor appointment happens on 2026-0,Can you help? Reminder: doctor appointment happens on 2026-09-06 at 13:00 in the city clinic.,2026-09-06,13:00,,medium,MSG_0711
+TASK_MSG_0713,Quick update: I might prefer evening meetings now.,Quick update: I might prefer evening meetings now.,,,,medium,MSG_0713
+TASK_MSG_0716,Can you help? Share the meeting notes is due on 2026-09-07.,Can you help? Share the meeting notes is due on 2026-09-07.,2026-09-07,,,medium,MSG_0716
+TASK_MSG_0717,FYI: Please call Maya when you are free.,FYI: Please call Maya when you are free.,,,,medium,MSG_0717
+TASK_MSG_0719,Just checking—Reminder: mentor catch-up happens on 2026-09-0,Just checking—Reminder: mentor catch-up happens on 2026-09-06 at 13:00 in the city clinic.,2026-09-06,13:00,,medium,MSG_0719
+TASK_MSG_0720,Share the meeting notes is due on 2026-09-09.,Share the meeting notes is due on 2026-09-09.,2026-09-09,,,medium,MSG_0720
+TASK_MSG_0730,Just checking—Please submit the weekly report by 2026-09-03.,Just checking—Please submit the weekly report by 2026-09-03.,2026-09-03,,,medium,MSG_0730
+TASK_MSG_0757,"Hi, Don't forget to call the service centre; deadline is 202","Hi, Don't forget to call the service centre; deadline is 2026-09-02.",2026-09-02,,,medium,MSG_0757
+TASK_MSG_0759,The product demo is scheduled for 2026-09-12 at 11:00 in Mee,The product demo is scheduled for 2026-09-12 at 11:00 in Meeting Room A.,2026-09-12,11:00,,medium,MSG_0759
+TASK_MSG_0773,Important: I might prefer evening meetings now.,Important: I might prefer evening meetings now.,,,,medium,MSG_0773
+TASK_MSG_0783,Quick update: I need you to review the model results by 2026,Quick update: I need you to review the model results by 2026-09-09.,2026-09-09,,,medium,MSG_0783
+TASK_MSG_0787,Important: Share the meeting notes is due on 2026-09-03.,Important: Share the meeting notes is due on 2026-09-03.,2026-09-03,,,medium,MSG_0787
+TASK_MSG_0792,The project review is scheduled for 2026-09-02 at 9:00 in Me,The project review is scheduled for 2026-09-02 at 9:00 in Meeting Room A.,2026-09-02,,,medium,MSG_0792
+TASK_MSG_0795,For today: Share the meeting notes is due on 2026-09-06.,For today: Share the meeting notes is due on 2026-09-06.,2026-09-06,,,medium,MSG_0795
+TASK_MSG_0797,"Important: Calendar update: family dinner, 2026-09-04 at 15:","Important: Calendar update: family dinner, 2026-09-04 at 15:00, the college auditorium.",2026-09-04,15:00,,medium,MSG_0797
+TASK_MSG_0800,Just checking—Are you available for the design review at 12:,Just checking—Are you available for the design review at 12:00 on 2026-09-05? Location: the main office.,2026-09-05,12:00,,medium,MSG_0800
+TASK_MSG_0810,"Hi, Are you available for the design review at 13:00 on 2026","Hi, Are you available for the design review at 13:00 on 2026-09-10? Location: the training hall.",2026-09-10,13:00,,medium,MSG_0810
+TASK_MSG_0811,Just checking—Please call Maya when you are free.,Just checking—Please call Maya when you are free.,,,,medium,MSG_0811
+TASK_MSG_0814,For today: Please complete the Python exercise by 2026-09-05,For today: Please complete the Python exercise by 2026-09-05.,2026-09-05,,,medium,MSG_0814
+TASK_MSG_0816,"Quick update: If possible, review the file before the meetin","Quick update: If possible, review the file before the meeting.",,,,medium,MSG_0816
+TASK_MSG_0819,Please note: Share the meeting notes is due on 2026-09-02.,Please note: Share the meeting notes is due on 2026-09-02.,2026-09-02,,,medium,MSG_0819
+TASK_MSG_0824,FYI: Please submit the weekly report by 2026-09-07.,FYI: Please submit the weekly report by 2026-09-07.,2026-09-07,,,medium,MSG_0824
+TASK_MSG_0827,For today: Please call Maya when you are free.,For today: Please call Maya when you are free.,,,,medium,MSG_0827
+TASK_MSG_0840,The review could be Friday afternoon.,The review could be Friday afternoon.,,,,medium,MSG_0840
+TASK_MSG_0845,"Just checking—Calendar update: family dinner, 2026-09-09 at ","Just checking—Calendar update: family dinner, 2026-09-09 at 16:00, the library.",2026-09-09,16:00,,medium,MSG_0845
+TASK_MSG_0849,Please note: Are you available for the design review at 16:0,Please note: Are you available for the design review at 16:00 on 2026-09-05? Location: the main office.,2026-09-05,16:00,,medium,MSG_0849
+TASK_MSG_0861,Can you help? Reminder: mentor catch-up happens on 2026-09-1,Can you help? Reminder: mentor catch-up happens on 2026-09-11 at 10:00 in the cafeteria.,2026-09-11,10:00,,medium,MSG_0861
+TASK_MSG_0866,One more thing: Reminder: mentor catch-up happens on 2026-09,One more thing: Reminder: mentor catch-up happens on 2026-09-06 at 9:00 in the city clinic.,2026-09-06,,,medium,MSG_0866
+TASK_MSG_0876,"Important: For my profile, i usually study after dinner.","Important: For my profile, i usually study after dinner.",,,,medium,MSG_0876
+TASK_MSG_0878,Please note: The client discussion is scheduled for 2026-09-,Please note: The client discussion is scheduled for 2026-09-02 at 13:00 in Meeting Room A.,2026-09-02,13:00,,medium,MSG_0878
+TASK_MSG_0883,For today: I need you to review the model results by 2026-09,For today: I need you to review the model results by 2026-09-02.,2026-09-02,,,medium,MSG_0883
+TASK_MSG_0886,For today: The review could be Friday afternoon.,For today: The review could be Friday afternoon.,,,,medium,MSG_0886
+TASK_MSG_0893,Important: Can you review the privacy checklist before 2026-,Important: Can you review the privacy checklist before 2026-09-03?,2026-09-03,,,medium,MSG_0893
+TASK_MSG_0894,Important: Are you available for the design review at 11:00 ,Important: Are you available for the design review at 11:00 on 2026-09-20? Location: the training hall.,2026-09-20,11:00,,medium,MSG_0894
+TASK_MSG_0898,Can you help? Please complete the Python exercise by 2026-09,Can you help? Please complete the Python exercise by 2026-09-06.,2026-09-06,,,medium,MSG_0898

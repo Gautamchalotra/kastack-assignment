@@ -1,0 +1,142 @@
+[
+    {
+        "message_id": "MSG_0243",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "Just checking\u2014Your OTP is ******-50. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0254",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "For today: Please note my bank account number ************-38.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0257",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "FYI: Please note my bank account number ************-78.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0267",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "Please note: Please note my bank account number ************-18.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0273",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "Quick update: Your OTP is ******-20. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0288",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "One more thing: Your OTP is ******-90. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0352",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "Can you help? Please note my bank account number ************-88.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0397",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "Just checking\u2014Please note my bank account number ************-58.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0595",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "Can you help? Your OTP is ******-80. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0596",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "For today: Your OTP is ******-30. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0604",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "FYI: Your OTP is ******-70. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0642",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "Important: Please note my bank account number ************-68.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0751",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "Hi, Please note my bank account number ************-48.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0752",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "Please note my bank account number ************.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0791",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "Please note: Your OTP is ******-10. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0834",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "Your OTP is ******. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0848",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "Quick update: Please note my bank account number ************-28.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0854",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "Hi, Your OTP is ******-40. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0880",
+        "sensitivity_type": "one_time_password",
+        "risk": "high",
+        "masked_text": "Important: Your OTP is ******-60. It expires in 10 minutes.",
+        "recommended_action": "do_not_store"
+    },
+    {
+        "message_id": "MSG_0890",
+        "sensitivity_type": "bank_account",
+        "risk": "high",
+        "masked_text": "One more thing: Please note my bank account number ************-98.",
+        "recommended_action": "do_not_store"
+    }
+]

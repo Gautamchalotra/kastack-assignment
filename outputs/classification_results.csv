@@ -1,0 +1,901 @@
+message_id,category,confidence,reason
+MSG_0001,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0002,Action Required,0.9,Requires user action.
+MSG_0003,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0004,General Information,0.75,No strong indicators found.
+MSG_0005,Personal Information,0.9,Contains personal details.
+MSG_0006,General Information,0.75,No strong indicators found.
+MSG_0007,Personal Information,0.9,Contains personal details.
+MSG_0008,General Information,0.75,No strong indicators found.
+MSG_0009,General Information,0.75,No strong indicators found.
+MSG_0010,General Information,0.75,No strong indicators found.
+MSG_0011,Action Required,0.9,Requires user action.
+MSG_0012,Action Required,0.9,Requires user action.
+MSG_0013,General Information,0.75,No strong indicators found.
+MSG_0014,Promotional,0.85,Promotional content detected.
+MSG_0015,Action Required,0.9,Requires user action.
+MSG_0016,General Information,0.75,No strong indicators found.
+MSG_0017,General Information,0.75,No strong indicators found.
+MSG_0018,General Information,0.75,No strong indicators found.
+MSG_0019,Action Required,0.9,Requires user action.
+MSG_0020,General Information,0.75,No strong indicators found.
+MSG_0021,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0022,General Information,0.75,No strong indicators found.
+MSG_0023,Action Required,0.9,Requires user action.
+MSG_0024,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0025,General Information,0.75,No strong indicators found.
+MSG_0026,Action Required,0.9,Requires user action.
+MSG_0027,Action Required,0.9,Requires user action.
+MSG_0028,Personal Information,0.9,Contains personal details.
+MSG_0029,Personal Information,0.9,Contains personal details.
+MSG_0030,General Information,0.75,No strong indicators found.
+MSG_0031,Action Required,0.9,Requires user action.
+MSG_0032,General Information,0.75,No strong indicators found.
+MSG_0033,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0034,Action Required,0.9,Requires user action.
+MSG_0035,Action Required,0.9,Requires user action.
+MSG_0036,Action Required,0.9,Requires user action.
+MSG_0037,Action Required,0.9,Requires user action.
+MSG_0038,Action Required,0.9,Requires user action.
+MSG_0039,General Information,0.75,No strong indicators found.
+MSG_0040,General Information,0.75,No strong indicators found.
+MSG_0041,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0042,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0043,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0044,Action Required,0.9,Requires user action.
+MSG_0045,Action Required,0.9,Requires user action.
+MSG_0046,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0047,General Information,0.75,No strong indicators found.
+MSG_0048,General Information,0.75,No strong indicators found.
+MSG_0049,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0050,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0051,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0052,Action Required,0.9,Requires user action.
+MSG_0053,General Information,0.75,No strong indicators found.
+MSG_0054,Action Required,0.9,Requires user action.
+MSG_0055,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0056,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0057,Action Required,0.9,Requires user action.
+MSG_0058,Action Required,0.9,Requires user action.
+MSG_0059,General Information,0.75,No strong indicators found.
+MSG_0060,Action Required,0.9,Requires user action.
+MSG_0061,Personal Information,0.9,Contains personal details.
+MSG_0062,Action Required,0.9,Requires user action.
+MSG_0063,General Information,0.75,No strong indicators found.
+MSG_0064,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0065,Personal Information,0.9,Contains personal details.
+MSG_0066,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0067,Action Required,0.9,Requires user action.
+MSG_0068,Action Required,0.9,Requires user action.
+MSG_0069,General Information,0.75,No strong indicators found.
+MSG_0070,Action Required,0.9,Requires user action.
+MSG_0071,Action Required,0.9,Requires user action.
+MSG_0072,Action Required,0.9,Requires user action.
+MSG_0073,General Information,0.75,No strong indicators found.
+MSG_0074,Sensitive Information,0.95,Contains sensitive information.
+MSG_0075,General Information,0.75,No strong indicators found.
+MSG_0076,General Information,0.75,No strong indicators found.
+MSG_0077,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0078,General Information,0.75,No strong indicators found.
+MSG_0079,General Information,0.75,No strong indicators found.
+MSG_0080,Promotional,0.85,Promotional content detected.
+MSG_0081,General Information,0.75,No strong indicators found.
+MSG_0082,Personal Information,0.9,Contains personal details.
+MSG_0083,General Information,0.75,No strong indicators found.
+MSG_0084,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0085,Action Required,0.9,Requires user action.
+MSG_0086,Sensitive Information,0.95,Contains sensitive information.
+MSG_0087,Personal Information,0.9,Contains personal details.
+MSG_0088,Action Required,0.9,Requires user action.
+MSG_0089,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0090,General Information,0.75,No strong indicators found.
+MSG_0091,General Information,0.75,No strong indicators found.
+MSG_0092,Action Required,0.9,Requires user action.
+MSG_0093,General Information,0.75,No strong indicators found.
+MSG_0094,General Information,0.75,No strong indicators found.
+MSG_0095,Sensitive Information,0.95,Contains sensitive information.
+MSG_0096,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0097,Action Required,0.9,Requires user action.
+MSG_0098,Action Required,0.9,Requires user action.
+MSG_0099,General Information,0.75,No strong indicators found.
+MSG_0100,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0101,Personal Information,0.9,Contains personal details.
+MSG_0102,Action Required,0.9,Requires user action.
+MSG_0103,General Information,0.75,No strong indicators found.
+MSG_0104,Promotional,0.85,Promotional content detected.
+MSG_0105,Promotional,0.85,Promotional content detected.
+MSG_0106,Action Required,0.9,Requires user action.
+MSG_0107,General Information,0.75,No strong indicators found.
+MSG_0108,Action Required,0.9,Requires user action.
+MSG_0109,General Information,0.75,No strong indicators found.
+MSG_0110,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0111,Action Required,0.9,Requires user action.
+MSG_0112,Action Required,0.9,Requires user action.
+MSG_0113,Action Required,0.9,Requires user action.
+MSG_0114,Action Required,0.9,Requires user action.
+MSG_0115,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0116,Action Required,0.9,Requires user action.
+MSG_0117,Sensitive Information,0.95,Contains sensitive information.
+MSG_0118,General Information,0.75,No strong indicators found.
+MSG_0119,Action Required,0.9,Requires user action.
+MSG_0120,Action Required,0.9,Requires user action.
+MSG_0121,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0122,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0123,Action Required,0.9,Requires user action.
+MSG_0124,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0125,General Information,0.75,No strong indicators found.
+MSG_0126,General Information,0.75,No strong indicators found.
+MSG_0127,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0128,General Information,0.75,No strong indicators found.
+MSG_0129,Action Required,0.9,Requires user action.
+MSG_0130,Personal Information,0.9,Contains personal details.
+MSG_0131,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0132,General Information,0.75,No strong indicators found.
+MSG_0133,General Information,0.75,No strong indicators found.
+MSG_0134,General Information,0.75,No strong indicators found.
+MSG_0135,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0136,General Information,0.75,No strong indicators found.
+MSG_0137,General Information,0.75,No strong indicators found.
+MSG_0138,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0139,Action Required,0.9,Requires user action.
+MSG_0140,Sensitive Information,0.95,Contains sensitive information.
+MSG_0141,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0142,Promotional,0.85,Promotional content detected.
+MSG_0143,General Information,0.75,No strong indicators found.
+MSG_0144,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0145,Action Required,0.9,Requires user action.
+MSG_0146,General Information,0.75,No strong indicators found.
+MSG_0147,General Information,0.75,No strong indicators found.
+MSG_0148,Action Required,0.9,Requires user action.
+MSG_0149,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0150,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0151,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0152,General Information,0.75,No strong indicators found.
+MSG_0153,Action Required,0.9,Requires user action.
+MSG_0154,Action Required,0.9,Requires user action.
+MSG_0155,General Information,0.75,No strong indicators found.
+MSG_0156,Action Required,0.9,Requires user action.
+MSG_0157,General Information,0.75,No strong indicators found.
+MSG_0158,General Information,0.75,No strong indicators found.
+MSG_0159,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0160,Action Required,0.9,Requires user action.
+MSG_0161,General Information,0.75,No strong indicators found.
+MSG_0162,Action Required,0.9,Requires user action.
+MSG_0163,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0164,General Information,0.75,No strong indicators found.
+MSG_0165,General Information,0.75,No strong indicators found.
+MSG_0166,General Information,0.75,No strong indicators found.
+MSG_0167,Promotional,0.85,Promotional content detected.
+MSG_0168,Action Required,0.9,Requires user action.
+MSG_0169,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0170,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0171,Action Required,0.9,Requires user action.
+MSG_0172,Personal Information,0.9,Contains personal details.
+MSG_0173,Action Required,0.9,Requires user action.
+MSG_0174,General Information,0.75,No strong indicators found.
+MSG_0175,Action Required,0.9,Requires user action.
+MSG_0176,General Information,0.75,No strong indicators found.
+MSG_0177,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0178,General Information,0.75,No strong indicators found.
+MSG_0179,Personal Information,0.9,Contains personal details.
+MSG_0180,General Information,0.75,No strong indicators found.
+MSG_0181,Personal Information,0.9,Contains personal details.
+MSG_0182,General Information,0.75,No strong indicators found.
+MSG_0183,General Information,0.75,No strong indicators found.
+MSG_0184,Action Required,0.9,Requires user action.
+MSG_0185,General Information,0.75,No strong indicators found.
+MSG_0186,Action Required,0.9,Requires user action.
+MSG_0187,General Information,0.75,No strong indicators found.
+MSG_0188,Action Required,0.9,Requires user action.
+MSG_0189,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0190,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0191,Action Required,0.9,Requires user action.
+MSG_0192,Promotional,0.85,Promotional content detected.
+MSG_0193,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0194,General Information,0.75,No strong indicators found.
+MSG_0195,Action Required,0.9,Requires user action.
+MSG_0196,General Information,0.75,No strong indicators found.
+MSG_0197,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0198,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0199,Personal Information,0.9,Contains personal details.
+MSG_0200,Action Required,0.9,Requires user action.
+MSG_0201,Action Required,0.9,Requires user action.
+MSG_0202,General Information,0.75,No strong indicators found.
+MSG_0203,General Information,0.75,No strong indicators found.
+MSG_0204,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0205,Personal Information,0.9,Contains personal details.
+MSG_0206,General Information,0.75,No strong indicators found.
+MSG_0207,General Information,0.75,No strong indicators found.
+MSG_0208,Action Required,0.9,Requires user action.
+MSG_0209,Action Required,0.9,Requires user action.
+MSG_0210,Action Required,0.9,Requires user action.
+MSG_0211,General Information,0.75,No strong indicators found.
+MSG_0212,General Information,0.75,No strong indicators found.
+MSG_0213,Action Required,0.9,Requires user action.
+MSG_0214,General Information,0.75,No strong indicators found.
+MSG_0215,Action Required,0.9,Requires user action.
+MSG_0216,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0217,Action Required,0.9,Requires user action.
+MSG_0218,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0219,Action Required,0.9,Requires user action.
+MSG_0220,Action Required,0.9,Requires user action.
+MSG_0221,Action Required,0.9,Requires user action.
+MSG_0222,Action Required,0.9,Requires user action.
+MSG_0223,Action Required,0.9,Requires user action.
+MSG_0224,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0225,Action Required,0.9,Requires user action.
+MSG_0226,General Information,0.75,No strong indicators found.
+MSG_0227,General Information,0.75,No strong indicators found.
+MSG_0228,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0229,General Information,0.75,No strong indicators found.
+MSG_0230,General Information,0.75,No strong indicators found.
+MSG_0231,Action Required,0.9,Requires user action.
+MSG_0232,General Information,0.75,No strong indicators found.
+MSG_0233,General Information,0.75,No strong indicators found.
+MSG_0234,Action Required,0.9,Requires user action.
+MSG_0235,General Information,0.75,No strong indicators found.
+MSG_0236,Action Required,0.9,Requires user action.
+MSG_0237,Promotional,0.85,Promotional content detected.
+MSG_0238,General Information,0.75,No strong indicators found.
+MSG_0239,General Information,0.75,No strong indicators found.
+MSG_0240,General Information,0.75,No strong indicators found.
+MSG_0241,Personal Information,0.9,Contains personal details.
+MSG_0242,General Information,0.75,No strong indicators found.
+MSG_0243,Sensitive Information,0.95,Contains sensitive information.
+MSG_0244,Action Required,0.9,Requires user action.
+MSG_0245,Action Required,0.9,Requires user action.
+MSG_0246,General Information,0.75,No strong indicators found.
+MSG_0247,General Information,0.75,No strong indicators found.
+MSG_0248,Action Required,0.9,Requires user action.
+MSG_0249,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0250,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0251,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0252,Action Required,0.9,Requires user action.
+MSG_0253,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0254,Sensitive Information,0.95,Contains sensitive information.
+MSG_0255,Action Required,0.9,Requires user action.
+MSG_0256,Personal Information,0.9,Contains personal details.
+MSG_0257,Sensitive Information,0.95,Contains sensitive information.
+MSG_0258,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0259,General Information,0.75,No strong indicators found.
+MSG_0260,Action Required,0.9,Requires user action.
+MSG_0261,Action Required,0.9,Requires user action.
+MSG_0262,General Information,0.75,No strong indicators found.
+MSG_0263,General Information,0.75,No strong indicators found.
+MSG_0264,General Information,0.75,No strong indicators found.
+MSG_0265,General Information,0.75,No strong indicators found.
+MSG_0266,General Information,0.75,No strong indicators found.
+MSG_0267,Sensitive Information,0.95,Contains sensitive information.
+MSG_0268,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0269,General Information,0.75,No strong indicators found.
+MSG_0270,General Information,0.75,No strong indicators found.
+MSG_0271,Action Required,0.9,Requires user action.
+MSG_0272,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0273,Sensitive Information,0.95,Contains sensitive information.
+MSG_0274,General Information,0.75,No strong indicators found.
+MSG_0275,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0276,Action Required,0.9,Requires user action.
+MSG_0277,Action Required,0.9,Requires user action.
+MSG_0278,General Information,0.75,No strong indicators found.
+MSG_0279,Action Required,0.9,Requires user action.
+MSG_0280,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0281,General Information,0.75,No strong indicators found.
+MSG_0282,Action Required,0.9,Requires user action.
+MSG_0283,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0284,General Information,0.75,No strong indicators found.
+MSG_0285,General Information,0.75,No strong indicators found.
+MSG_0286,General Information,0.75,No strong indicators found.
+MSG_0287,Personal Information,0.9,Contains personal details.
+MSG_0288,Sensitive Information,0.95,Contains sensitive information.
+MSG_0289,Action Required,0.9,Requires user action.
+MSG_0290,General Information,0.75,No strong indicators found.
+MSG_0291,General Information,0.75,No strong indicators found.
+MSG_0292,Personal Information,0.9,Contains personal details.
+MSG_0293,Action Required,0.9,Requires user action.
+MSG_0294,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0295,General Information,0.75,No strong indicators found.
+MSG_0296,General Information,0.75,No strong indicators found.
+MSG_0297,Action Required,0.9,Requires user action.
+MSG_0298,General Information,0.75,No strong indicators found.
+MSG_0299,General Information,0.75,No strong indicators found.
+MSG_0300,Action Required,0.9,Requires user action.
+MSG_0301,Personal Information,0.9,Contains personal details.
+MSG_0302,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0303,General Information,0.75,No strong indicators found.
+MSG_0304,General Information,0.75,No strong indicators found.
+MSG_0305,Action Required,0.9,Requires user action.
+MSG_0306,Action Required,0.9,Requires user action.
+MSG_0307,Action Required,0.9,Requires user action.
+MSG_0308,Personal Information,0.9,Contains personal details.
+MSG_0309,Personal Information,0.9,Contains personal details.
+MSG_0310,Action Required,0.9,Requires user action.
+MSG_0311,Action Required,0.9,Requires user action.
+MSG_0312,General Information,0.75,No strong indicators found.
+MSG_0313,Action Required,0.9,Requires user action.
+MSG_0314,Action Required,0.9,Requires user action.
+MSG_0315,General Information,0.75,No strong indicators found.
+MSG_0316,General Information,0.75,No strong indicators found.
+MSG_0317,Action Required,0.9,Requires user action.
+MSG_0318,General Information,0.75,No strong indicators found.
+MSG_0319,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0320,General Information,0.75,No strong indicators found.
+MSG_0321,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0322,Action Required,0.9,Requires user action.
+MSG_0323,Action Required,0.9,Requires user action.
+MSG_0324,General Information,0.75,No strong indicators found.
+MSG_0325,General Information,0.75,No strong indicators found.
+MSG_0326,Action Required,0.9,Requires user action.
+MSG_0327,General Information,0.75,No strong indicators found.
+MSG_0328,General Information,0.75,No strong indicators found.
+MSG_0329,General Information,0.75,No strong indicators found.
+MSG_0330,Action Required,0.9,Requires user action.
+MSG_0331,Action Required,0.9,Requires user action.
+MSG_0332,General Information,0.75,No strong indicators found.
+MSG_0333,General Information,0.75,No strong indicators found.
+MSG_0334,Action Required,0.9,Requires user action.
+MSG_0335,Action Required,0.9,Requires user action.
+MSG_0336,General Information,0.75,No strong indicators found.
+MSG_0337,General Information,0.75,No strong indicators found.
+MSG_0338,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0339,Action Required,0.9,Requires user action.
+MSG_0340,General Information,0.75,No strong indicators found.
+MSG_0341,General Information,0.75,No strong indicators found.
+MSG_0342,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0343,General Information,0.75,No strong indicators found.
+MSG_0344,Sensitive Information,0.95,Contains sensitive information.
+MSG_0345,General Information,0.75,No strong indicators found.
+MSG_0346,Sensitive Information,0.95,Contains sensitive information.
+MSG_0347,General Information,0.75,No strong indicators found.
+MSG_0348,General Information,0.75,No strong indicators found.
+MSG_0349,General Information,0.75,No strong indicators found.
+MSG_0350,General Information,0.75,No strong indicators found.
+MSG_0351,Sensitive Information,0.95,Contains sensitive information.
+MSG_0352,Sensitive Information,0.95,Contains sensitive information.
+MSG_0353,Action Required,0.9,Requires user action.
+MSG_0354,General Information,0.75,No strong indicators found.
+MSG_0355,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0356,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0357,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0358,Action Required,0.9,Requires user action.
+MSG_0359,General Information,0.75,No strong indicators found.
+MSG_0360,General Information,0.75,No strong indicators found.
+MSG_0361,General Information,0.75,No strong indicators found.
+MSG_0362,General Information,0.75,No strong indicators found.
+MSG_0363,Action Required,0.9,Requires user action.
+MSG_0364,General Information,0.75,No strong indicators found.
+MSG_0365,Personal Information,0.9,Contains personal details.
+MSG_0366,Personal Information,0.9,Contains personal details.
+MSG_0367,General Information,0.75,No strong indicators found.
+MSG_0368,Personal Information,0.9,Contains personal details.
+MSG_0369,Action Required,0.9,Requires user action.
+MSG_0370,Action Required,0.9,Requires user action.
+MSG_0371,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0372,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0373,Action Required,0.9,Requires user action.
+MSG_0374,General Information,0.75,No strong indicators found.
+MSG_0375,General Information,0.75,No strong indicators found.
+MSG_0376,Sensitive Information,0.95,Contains sensitive information.
+MSG_0377,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0378,Action Required,0.9,Requires user action.
+MSG_0379,Action Required,0.9,Requires user action.
+MSG_0380,Action Required,0.9,Requires user action.
+MSG_0381,General Information,0.75,No strong indicators found.
+MSG_0382,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0383,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0384,General Information,0.75,No strong indicators found.
+MSG_0385,Personal Information,0.9,Contains personal details.
+MSG_0386,Action Required,0.9,Requires user action.
+MSG_0387,General Information,0.75,No strong indicators found.
+MSG_0388,General Information,0.75,No strong indicators found.
+MSG_0389,Sensitive Information,0.95,Contains sensitive information.
+MSG_0390,General Information,0.75,No strong indicators found.
+MSG_0391,General Information,0.75,No strong indicators found.
+MSG_0392,General Information,0.75,No strong indicators found.
+MSG_0393,Action Required,0.9,Requires user action.
+MSG_0394,Personal Information,0.9,Contains personal details.
+MSG_0395,General Information,0.75,No strong indicators found.
+MSG_0396,Action Required,0.9,Requires user action.
+MSG_0397,Sensitive Information,0.95,Contains sensitive information.
+MSG_0398,Action Required,0.9,Requires user action.
+MSG_0399,General Information,0.75,No strong indicators found.
+MSG_0400,General Information,0.75,No strong indicators found.
+MSG_0401,General Information,0.75,No strong indicators found.
+MSG_0402,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0403,Action Required,0.9,Requires user action.
+MSG_0404,General Information,0.75,No strong indicators found.
+MSG_0405,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0406,General Information,0.75,No strong indicators found.
+MSG_0407,Action Required,0.9,Requires user action.
+MSG_0408,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0409,Action Required,0.9,Requires user action.
+MSG_0410,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0411,Action Required,0.9,Requires user action.
+MSG_0412,Action Required,0.9,Requires user action.
+MSG_0413,Action Required,0.9,Requires user action.
+MSG_0414,Action Required,0.9,Requires user action.
+MSG_0415,Personal Information,0.9,Contains personal details.
+MSG_0416,Action Required,0.9,Requires user action.
+MSG_0417,General Information,0.75,No strong indicators found.
+MSG_0418,Personal Information,0.9,Contains personal details.
+MSG_0419,Action Required,0.9,Requires user action.
+MSG_0420,Action Required,0.9,Requires user action.
+MSG_0421,General Information,0.75,No strong indicators found.
+MSG_0422,Action Required,0.9,Requires user action.
+MSG_0423,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0424,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0425,Action Required,0.9,Requires user action.
+MSG_0426,General Information,0.75,No strong indicators found.
+MSG_0427,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0428,General Information,0.75,No strong indicators found.
+MSG_0429,General Information,0.75,No strong indicators found.
+MSG_0430,Action Required,0.9,Requires user action.
+MSG_0431,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0432,Promotional,0.85,Promotional content detected.
+MSG_0433,General Information,0.75,No strong indicators found.
+MSG_0434,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0435,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0436,Sensitive Information,0.95,Contains sensitive information.
+MSG_0437,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0438,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0439,General Information,0.75,No strong indicators found.
+MSG_0440,General Information,0.75,No strong indicators found.
+MSG_0441,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0442,General Information,0.75,No strong indicators found.
+MSG_0443,General Information,0.75,No strong indicators found.
+MSG_0444,Action Required,0.9,Requires user action.
+MSG_0445,General Information,0.75,No strong indicators found.
+MSG_0446,General Information,0.75,No strong indicators found.
+MSG_0447,General Information,0.75,No strong indicators found.
+MSG_0448,General Information,0.75,No strong indicators found.
+MSG_0449,Action Required,0.9,Requires user action.
+MSG_0450,General Information,0.75,No strong indicators found.
+MSG_0451,Personal Information,0.9,Contains personal details.
+MSG_0452,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0453,Action Required,0.9,Requires user action.
+MSG_0454,Action Required,0.9,Requires user action.
+MSG_0455,General Information,0.75,No strong indicators found.
+MSG_0456,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0457,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0458,Action Required,0.9,Requires user action.
+MSG_0459,General Information,0.75,No strong indicators found.
+MSG_0460,Action Required,0.9,Requires user action.
+MSG_0461,Promotional,0.85,Promotional content detected.
+MSG_0462,Action Required,0.9,Requires user action.
+MSG_0463,General Information,0.75,No strong indicators found.
+MSG_0464,Action Required,0.9,Requires user action.
+MSG_0465,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0466,General Information,0.75,No strong indicators found.
+MSG_0467,Action Required,0.9,Requires user action.
+MSG_0468,Action Required,0.9,Requires user action.
+MSG_0469,General Information,0.75,No strong indicators found.
+MSG_0470,General Information,0.75,No strong indicators found.
+MSG_0471,Sensitive Information,0.95,Contains sensitive information.
+MSG_0472,General Information,0.75,No strong indicators found.
+MSG_0473,Action Required,0.9,Requires user action.
+MSG_0474,General Information,0.75,No strong indicators found.
+MSG_0475,Personal Information,0.9,Contains personal details.
+MSG_0476,General Information,0.75,No strong indicators found.
+MSG_0477,General Information,0.75,No strong indicators found.
+MSG_0478,General Information,0.75,No strong indicators found.
+MSG_0479,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0480,Action Required,0.9,Requires user action.
+MSG_0481,Action Required,0.9,Requires user action.
+MSG_0482,General Information,0.75,No strong indicators found.
+MSG_0483,Action Required,0.9,Requires user action.
+MSG_0484,Action Required,0.9,Requires user action.
+MSG_0485,Action Required,0.9,Requires user action.
+MSG_0486,Action Required,0.9,Requires user action.
+MSG_0487,Action Required,0.9,Requires user action.
+MSG_0488,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0489,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0490,Action Required,0.9,Requires user action.
+MSG_0491,Action Required,0.9,Requires user action.
+MSG_0492,Action Required,0.9,Requires user action.
+MSG_0493,Action Required,0.9,Requires user action.
+MSG_0494,General Information,0.75,No strong indicators found.
+MSG_0495,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0496,Action Required,0.9,Requires user action.
+MSG_0497,General Information,0.75,No strong indicators found.
+MSG_0498,Action Required,0.9,Requires user action.
+MSG_0499,General Information,0.75,No strong indicators found.
+MSG_0500,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0501,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0502,General Information,0.75,No strong indicators found.
+MSG_0503,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0504,General Information,0.75,No strong indicators found.
+MSG_0505,Action Required,0.9,Requires user action.
+MSG_0506,Action Required,0.9,Requires user action.
+MSG_0507,General Information,0.75,No strong indicators found.
+MSG_0508,Action Required,0.9,Requires user action.
+MSG_0509,General Information,0.75,No strong indicators found.
+MSG_0510,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0511,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0512,Action Required,0.9,Requires user action.
+MSG_0513,General Information,0.75,No strong indicators found.
+MSG_0514,General Information,0.75,No strong indicators found.
+MSG_0515,General Information,0.75,No strong indicators found.
+MSG_0516,Action Required,0.9,Requires user action.
+MSG_0517,General Information,0.75,No strong indicators found.
+MSG_0518,General Information,0.75,No strong indicators found.
+MSG_0519,General Information,0.75,No strong indicators found.
+MSG_0520,Action Required,0.9,Requires user action.
+MSG_0521,General Information,0.75,No strong indicators found.
+MSG_0522,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0523,General Information,0.75,No strong indicators found.
+MSG_0524,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0525,Action Required,0.9,Requires user action.
+MSG_0526,General Information,0.75,No strong indicators found.
+MSG_0527,Action Required,0.9,Requires user action.
+MSG_0528,General Information,0.75,No strong indicators found.
+MSG_0529,Action Required,0.9,Requires user action.
+MSG_0530,Action Required,0.9,Requires user action.
+MSG_0531,Action Required,0.9,Requires user action.
+MSG_0532,Personal Information,0.9,Contains personal details.
+MSG_0533,Action Required,0.9,Requires user action.
+MSG_0534,General Information,0.75,No strong indicators found.
+MSG_0535,Personal Information,0.9,Contains personal details.
+MSG_0536,General Information,0.75,No strong indicators found.
+MSG_0537,Action Required,0.9,Requires user action.
+MSG_0538,General Information,0.75,No strong indicators found.
+MSG_0539,Personal Information,0.9,Contains personal details.
+MSG_0540,General Information,0.75,No strong indicators found.
+MSG_0541,Personal Information,0.9,Contains personal details.
+MSG_0542,General Information,0.75,No strong indicators found.
+MSG_0543,Action Required,0.9,Requires user action.
+MSG_0544,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0545,General Information,0.75,No strong indicators found.
+MSG_0546,Action Required,0.9,Requires user action.
+MSG_0547,Action Required,0.9,Requires user action.
+MSG_0548,General Information,0.75,No strong indicators found.
+MSG_0549,Action Required,0.9,Requires user action.
+MSG_0550,General Information,0.75,No strong indicators found.
+MSG_0551,Action Required,0.9,Requires user action.
+MSG_0552,Action Required,0.9,Requires user action.
+MSG_0553,Action Required,0.9,Requires user action.
+MSG_0554,General Information,0.75,No strong indicators found.
+MSG_0555,General Information,0.75,No strong indicators found.
+MSG_0556,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0557,Action Required,0.9,Requires user action.
+MSG_0558,General Information,0.75,No strong indicators found.
+MSG_0559,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0560,General Information,0.75,No strong indicators found.
+MSG_0561,General Information,0.75,No strong indicators found.
+MSG_0562,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0563,General Information,0.75,No strong indicators found.
+MSG_0564,Action Required,0.9,Requires user action.
+MSG_0565,Action Required,0.9,Requires user action.
+MSG_0566,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0567,General Information,0.75,No strong indicators found.
+MSG_0568,General Information,0.75,No strong indicators found.
+MSG_0569,Action Required,0.9,Requires user action.
+MSG_0570,Action Required,0.9,Requires user action.
+MSG_0571,Action Required,0.9,Requires user action.
+MSG_0572,Sensitive Information,0.95,Contains sensitive information.
+MSG_0573,General Information,0.75,No strong indicators found.
+MSG_0574,Action Required,0.9,Requires user action.
+MSG_0575,General Information,0.75,No strong indicators found.
+MSG_0576,General Information,0.75,No strong indicators found.
+MSG_0577,Action Required,0.9,Requires user action.
+MSG_0578,Action Required,0.9,Requires user action.
+MSG_0579,General Information,0.75,No strong indicators found.
+MSG_0580,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0581,General Information,0.75,No strong indicators found.
+MSG_0582,Action Required,0.9,Requires user action.
+MSG_0583,Personal Information,0.9,Contains personal details.
+MSG_0584,Action Required,0.9,Requires user action.
+MSG_0585,Action Required,0.9,Requires user action.
+MSG_0586,General Information,0.75,No strong indicators found.
+MSG_0587,General Information,0.75,No strong indicators found.
+MSG_0588,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0589,General Information,0.75,No strong indicators found.
+MSG_0590,Action Required,0.9,Requires user action.
+MSG_0591,Sensitive Information,0.95,Contains sensitive information.
+MSG_0592,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0593,General Information,0.75,No strong indicators found.
+MSG_0594,Action Required,0.9,Requires user action.
+MSG_0595,Sensitive Information,0.95,Contains sensitive information.
+MSG_0596,Sensitive Information,0.95,Contains sensitive information.
+MSG_0597,Action Required,0.9,Requires user action.
+MSG_0598,General Information,0.75,No strong indicators found.
+MSG_0599,General Information,0.75,No strong indicators found.
+MSG_0600,General Information,0.75,No strong indicators found.
+MSG_0601,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0602,Action Required,0.9,Requires user action.
+MSG_0603,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0604,Sensitive Information,0.95,Contains sensitive information.
+MSG_0605,Personal Information,0.9,Contains personal details.
+MSG_0606,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0607,General Information,0.75,No strong indicators found.
+MSG_0608,Promotional,0.85,Promotional content detected.
+MSG_0609,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0610,General Information,0.75,No strong indicators found.
+MSG_0611,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0612,Action Required,0.9,Requires user action.
+MSG_0613,Action Required,0.9,Requires user action.
+MSG_0614,General Information,0.75,No strong indicators found.
+MSG_0615,General Information,0.75,No strong indicators found.
+MSG_0616,Action Required,0.9,Requires user action.
+MSG_0617,Action Required,0.9,Requires user action.
+MSG_0618,Action Required,0.9,Requires user action.
+MSG_0619,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0620,General Information,0.75,No strong indicators found.
+MSG_0621,Action Required,0.9,Requires user action.
+MSG_0622,Action Required,0.9,Requires user action.
+MSG_0623,Action Required,0.9,Requires user action.
+MSG_0624,Action Required,0.9,Requires user action.
+MSG_0625,Action Required,0.9,Requires user action.
+MSG_0626,Personal Information,0.9,Contains personal details.
+MSG_0627,General Information,0.75,No strong indicators found.
+MSG_0628,Action Required,0.9,Requires user action.
+MSG_0629,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0630,General Information,0.75,No strong indicators found.
+MSG_0631,Action Required,0.9,Requires user action.
+MSG_0632,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0633,General Information,0.75,No strong indicators found.
+MSG_0634,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0635,Action Required,0.9,Requires user action.
+MSG_0636,General Information,0.75,No strong indicators found.
+MSG_0637,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0638,General Information,0.75,No strong indicators found.
+MSG_0639,Action Required,0.9,Requires user action.
+MSG_0640,General Information,0.75,No strong indicators found.
+MSG_0641,General Information,0.75,No strong indicators found.
+MSG_0642,Sensitive Information,0.95,Contains sensitive information.
+MSG_0643,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0644,General Information,0.75,No strong indicators found.
+MSG_0645,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0646,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0647,Promotional,0.85,Promotional content detected.
+MSG_0648,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0649,General Information,0.75,No strong indicators found.
+MSG_0650,General Information,0.75,No strong indicators found.
+MSG_0651,General Information,0.75,No strong indicators found.
+MSG_0652,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0653,Action Required,0.9,Requires user action.
+MSG_0654,Action Required,0.9,Requires user action.
+MSG_0655,Personal Information,0.9,Contains personal details.
+MSG_0656,Action Required,0.9,Requires user action.
+MSG_0657,General Information,0.75,No strong indicators found.
+MSG_0658,General Information,0.75,No strong indicators found.
+MSG_0659,General Information,0.75,No strong indicators found.
+MSG_0660,Action Required,0.9,Requires user action.
+MSG_0661,General Information,0.75,No strong indicators found.
+MSG_0662,Action Required,0.9,Requires user action.
+MSG_0663,Promotional,0.85,Promotional content detected.
+MSG_0664,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0665,Promotional,0.85,Promotional content detected.
+MSG_0666,Action Required,0.9,Requires user action.
+MSG_0667,General Information,0.75,No strong indicators found.
+MSG_0668,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0669,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0670,Action Required,0.9,Requires user action.
+MSG_0671,General Information,0.75,No strong indicators found.
+MSG_0672,General Information,0.75,No strong indicators found.
+MSG_0673,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0674,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0675,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0676,General Information,0.75,No strong indicators found.
+MSG_0677,General Information,0.75,No strong indicators found.
+MSG_0678,General Information,0.75,No strong indicators found.
+MSG_0679,General Information,0.75,No strong indicators found.
+MSG_0680,Promotional,0.85,Promotional content detected.
+MSG_0681,General Information,0.75,No strong indicators found.
+MSG_0682,General Information,0.75,No strong indicators found.
+MSG_0683,Action Required,0.9,Requires user action.
+MSG_0684,General Information,0.75,No strong indicators found.
+MSG_0685,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0686,General Information,0.75,No strong indicators found.
+MSG_0687,Sensitive Information,0.95,Contains sensitive information.
+MSG_0688,General Information,0.75,No strong indicators found.
+MSG_0689,General Information,0.75,No strong indicators found.
+MSG_0690,General Information,0.75,No strong indicators found.
+MSG_0691,General Information,0.75,No strong indicators found.
+MSG_0692,Action Required,0.9,Requires user action.
+MSG_0693,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0694,Action Required,0.9,Requires user action.
+MSG_0695,General Information,0.75,No strong indicators found.
+MSG_0696,General Information,0.75,No strong indicators found.
+MSG_0697,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0698,General Information,0.75,No strong indicators found.
+MSG_0699,General Information,0.75,No strong indicators found.
+MSG_0700,General Information,0.75,No strong indicators found.
+MSG_0701,General Information,0.75,No strong indicators found.
+MSG_0702,General Information,0.75,No strong indicators found.
+MSG_0703,Personal Information,0.9,Contains personal details.
+MSG_0704,General Information,0.75,No strong indicators found.
+MSG_0705,General Information,0.75,No strong indicators found.
+MSG_0706,Action Required,0.9,Requires user action.
+MSG_0707,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0708,Action Required,0.9,Requires user action.
+MSG_0709,General Information,0.75,No strong indicators found.
+MSG_0710,General Information,0.75,No strong indicators found.
+MSG_0711,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0712,Promotional,0.85,Promotional content detected.
+MSG_0713,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0714,General Information,0.75,No strong indicators found.
+MSG_0715,Sensitive Information,0.95,Contains sensitive information.
+MSG_0716,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0717,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0718,General Information,0.75,No strong indicators found.
+MSG_0719,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0720,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0721,Promotional,0.85,Promotional content detected.
+MSG_0722,Action Required,0.9,Requires user action.
+MSG_0723,General Information,0.75,No strong indicators found.
+MSG_0724,Action Required,0.9,Requires user action.
+MSG_0725,Action Required,0.9,Requires user action.
+MSG_0726,General Information,0.75,No strong indicators found.
+MSG_0727,Sensitive Information,0.95,Contains sensitive information.
+MSG_0728,General Information,0.75,No strong indicators found.
+MSG_0729,Action Required,0.9,Requires user action.
+MSG_0730,Action Required,0.9,Requires user action.
+MSG_0731,General Information,0.75,No strong indicators found.
+MSG_0732,Action Required,0.9,Requires user action.
+MSG_0733,General Information,0.75,No strong indicators found.
+MSG_0734,Action Required,0.9,Requires user action.
+MSG_0735,General Information,0.75,No strong indicators found.
+MSG_0736,Action Required,0.9,Requires user action.
+MSG_0737,Promotional,0.85,Promotional content detected.
+MSG_0738,Action Required,0.9,Requires user action.
+MSG_0739,General Information,0.75,No strong indicators found.
+MSG_0740,General Information,0.75,No strong indicators found.
+MSG_0741,Action Required,0.9,Requires user action.
+MSG_0742,General Information,0.75,No strong indicators found.
+MSG_0743,General Information,0.75,No strong indicators found.
+MSG_0744,Action Required,0.9,Requires user action.
+MSG_0745,Action Required,0.9,Requires user action.
+MSG_0746,General Information,0.75,No strong indicators found.
+MSG_0747,Action Required,0.9,Requires user action.
+MSG_0748,Action Required,0.9,Requires user action.
+MSG_0749,Sensitive Information,0.95,Contains sensitive information.
+MSG_0750,General Information,0.75,No strong indicators found.
+MSG_0751,Sensitive Information,0.95,Contains sensitive information.
+MSG_0752,Sensitive Information,0.95,Contains sensitive information.
+MSG_0753,General Information,0.75,No strong indicators found.
+MSG_0754,Action Required,0.9,Requires user action.
+MSG_0755,Action Required,0.9,Requires user action.
+MSG_0756,General Information,0.75,No strong indicators found.
+MSG_0757,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0758,General Information,0.75,No strong indicators found.
+MSG_0759,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0760,Promotional,0.85,Promotional content detected.
+MSG_0761,General Information,0.75,No strong indicators found.
+MSG_0762,Personal Information,0.9,Contains personal details.
+MSG_0763,Action Required,0.9,Requires user action.
+MSG_0764,General Information,0.75,No strong indicators found.
+MSG_0765,General Information,0.75,No strong indicators found.
+MSG_0766,Promotional,0.85,Promotional content detected.
+MSG_0767,Promotional,0.85,Promotional content detected.
+MSG_0768,General Information,0.75,No strong indicators found.
+MSG_0769,General Information,0.75,No strong indicators found.
+MSG_0770,Action Required,0.9,Requires user action.
+MSG_0771,Action Required,0.9,Requires user action.
+MSG_0772,General Information,0.75,No strong indicators found.
+MSG_0773,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0774,General Information,0.75,No strong indicators found.
+MSG_0775,Action Required,0.9,Requires user action.
+MSG_0776,Action Required,0.9,Requires user action.
+MSG_0777,Sensitive Information,0.95,Contains sensitive information.
+MSG_0778,Sensitive Information,0.95,Contains sensitive information.
+MSG_0779,Personal Information,0.9,Contains personal details.
+MSG_0780,Action Required,0.9,Requires user action.
+MSG_0781,Personal Information,0.9,Contains personal details.
+MSG_0782,General Information,0.75,No strong indicators found.
+MSG_0783,Action Required,0.9,Requires user action.
+MSG_0784,Personal Information,0.9,Contains personal details.
+MSG_0785,Action Required,0.9,Requires user action.
+MSG_0786,General Information,0.75,No strong indicators found.
+MSG_0787,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0788,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0789,Action Required,0.9,Requires user action.
+MSG_0790,Action Required,0.9,Requires user action.
+MSG_0791,Sensitive Information,0.95,Contains sensitive information.
+MSG_0792,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0793,Action Required,0.9,Requires user action.
+MSG_0794,General Information,0.75,No strong indicators found.
+MSG_0795,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0796,General Information,0.75,No strong indicators found.
+MSG_0797,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0798,General Information,0.75,No strong indicators found.
+MSG_0799,Personal Information,0.9,Contains personal details.
+MSG_0800,Action Required,0.9,Requires user action.
+MSG_0801,General Information,0.75,No strong indicators found.
+MSG_0802,Personal Information,0.9,Contains personal details.
+MSG_0803,Action Required,0.9,Requires user action.
+MSG_0804,General Information,0.75,No strong indicators found.
+MSG_0805,General Information,0.75,No strong indicators found.
+MSG_0806,General Information,0.75,No strong indicators found.
+MSG_0807,General Information,0.75,No strong indicators found.
+MSG_0808,Action Required,0.9,Requires user action.
+MSG_0809,General Information,0.75,No strong indicators found.
+MSG_0810,Action Required,0.9,Requires user action.
+MSG_0811,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0812,General Information,0.75,No strong indicators found.
+MSG_0813,General Information,0.75,No strong indicators found.
+MSG_0814,Action Required,0.9,Requires user action.
+MSG_0815,Action Required,0.9,Requires user action.
+MSG_0816,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0817,General Information,0.75,No strong indicators found.
+MSG_0818,General Information,0.75,No strong indicators found.
+MSG_0819,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0820,Action Required,0.9,Requires user action.
+MSG_0821,Action Required,0.9,Requires user action.
+MSG_0822,Action Required,0.9,Requires user action.
+MSG_0823,Action Required,0.9,Requires user action.
+MSG_0824,Action Required,0.9,Requires user action.
+MSG_0825,Action Required,0.9,Requires user action.
+MSG_0826,Action Required,0.9,Requires user action.
+MSG_0827,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0828,General Information,0.75,No strong indicators found.
+MSG_0829,Personal Information,0.9,Contains personal details.
+MSG_0830,Action Required,0.9,Requires user action.
+MSG_0831,General Information,0.75,No strong indicators found.
+MSG_0832,Action Required,0.9,Requires user action.
+MSG_0833,General Information,0.75,No strong indicators found.
+MSG_0834,Sensitive Information,0.95,Contains sensitive information.
+MSG_0835,Promotional,0.85,Promotional content detected.
+MSG_0836,Action Required,0.9,Requires user action.
+MSG_0837,General Information,0.75,No strong indicators found.
+MSG_0838,General Information,0.75,No strong indicators found.
+MSG_0839,Promotional,0.85,Promotional content detected.
+MSG_0840,Action Required,0.9,Requires user action.
+MSG_0841,Action Required,0.9,Requires user action.
+MSG_0842,General Information,0.75,No strong indicators found.
+MSG_0843,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0844,Action Required,0.9,Requires user action.
+MSG_0845,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0846,Action Required,0.9,Requires user action.
+MSG_0847,Action Required,0.9,Requires user action.
+MSG_0848,Sensitive Information,0.95,Contains sensitive information.
+MSG_0849,Action Required,0.9,Requires user action.
+MSG_0850,General Information,0.75,No strong indicators found.
+MSG_0851,Action Required,0.9,Requires user action.
+MSG_0852,Action Required,0.9,Requires user action.
+MSG_0853,Personal Information,0.9,Contains personal details.
+MSG_0854,Sensitive Information,0.95,Contains sensitive information.
+MSG_0855,General Information,0.75,No strong indicators found.
+MSG_0856,Action Required,0.9,Requires user action.
+MSG_0857,General Information,0.75,No strong indicators found.
+MSG_0858,General Information,0.75,No strong indicators found.
+MSG_0859,Action Required,0.9,Requires user action.
+MSG_0860,Action Required,0.9,Requires user action.
+MSG_0861,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0862,Personal Information,0.9,Contains personal details.
+MSG_0863,General Information,0.75,No strong indicators found.
+MSG_0864,General Information,0.75,No strong indicators found.
+MSG_0865,General Information,0.75,No strong indicators found.
+MSG_0866,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0867,General Information,0.75,No strong indicators found.
+MSG_0868,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0869,Action Required,0.9,Requires user action.
+MSG_0870,Action Required,0.9,Requires user action.
+MSG_0871,Action Required,0.9,Requires user action.
+MSG_0872,General Information,0.75,No strong indicators found.
+MSG_0873,Action Required,0.9,Requires user action.
+MSG_0874,General Information,0.75,No strong indicators found.
+MSG_0875,General Information,0.75,No strong indicators found.
+MSG_0876,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0877,General Information,0.75,No strong indicators found.
+MSG_0878,Meeting or Event,0.92,Contains meeting/event related information.
+MSG_0879,Action Required,0.9,Requires user action.
+MSG_0880,Sensitive Information,0.95,Contains sensitive information.
+MSG_0881,General Information,0.75,No strong indicators found.
+MSG_0882,General Information,0.75,No strong indicators found.
+MSG_0883,Action Required,0.9,Requires user action.
+MSG_0884,Action Required,0.9,Requires user action.
+MSG_0885,General Information,0.75,No strong indicators found.
+MSG_0886,Action Required,0.9,Requires user action.
+MSG_0887,Personal Information,0.9,Contains personal details.
+MSG_0888,Action Required,0.9,Requires user action.
+MSG_0889,General Information,0.75,No strong indicators found.
+MSG_0890,Sensitive Information,0.95,Contains sensitive information.
+MSG_0891,General Information,0.75,No strong indicators found.
+MSG_0892,General Information,0.75,No strong indicators found.
+MSG_0893,Action Required,0.9,Requires user action.
+MSG_0894,Action Required,0.9,Requires user action.
+MSG_0895,Action Required,0.9,Requires user action.
+MSG_0896,General Information,0.75,No strong indicators found.
+MSG_0897,Promotional,0.85,Promotional content detected.
+MSG_0898,Action Required,0.9,Requires user action.
+MSG_0899,General Information,0.75,No strong indicators found.
+MSG_0900,Action Required,0.9,Requires user action.

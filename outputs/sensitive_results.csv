@@ -1,0 +1,21 @@
+message_id,sensitivity_type,risk,masked_text,recommended_action
+MSG_0243,one_time_password,high,Just checking—Your OTP is ******-50. It expires in 10 minutes.,do_not_store
+MSG_0254,bank_account,high,For today: Please note my bank account number ************-38.,do_not_store
+MSG_0257,bank_account,high,FYI: Please note my bank account number ************-78.,do_not_store
+MSG_0267,bank_account,high,Please note: Please note my bank account number ************-18.,do_not_store
+MSG_0273,one_time_password,high,Quick update: Your OTP is ******-20. It expires in 10 minutes.,do_not_store
+MSG_0288,one_time_password,high,One more thing: Your OTP is ******-90. It expires in 10 minutes.,do_not_store
+MSG_0352,bank_account,high,Can you help? Please note my bank account number ************-88.,do_not_store
+MSG_0397,bank_account,high,Just checking—Please note my bank account number ************-58.,do_not_store
+MSG_0595,one_time_password,high,Can you help? Your OTP is ******-80. It expires in 10 minutes.,do_not_store
+MSG_0596,one_time_password,high,For today: Your OTP is ******-30. It expires in 10 minutes.,do_not_store
+MSG_0604,one_time_password,high,FYI: Your OTP is ******-70. It expires in 10 minutes.,do_not_store
+MSG_0642,bank_account,high,Important: Please note my bank account number ************-68.,do_not_store
+MSG_0751,bank_account,high,"Hi, Please note my bank account number ************-48.",do_not_store
+MSG_0752,bank_account,high,Please note my bank account number ************.,do_not_store
+MSG_0791,one_time_password,high,Please note: Your OTP is ******-10. It expires in 10 minutes.,do_not_store
+MSG_0834,one_time_password,high,Your OTP is ******. It expires in 10 minutes.,do_not_store
+MSG_0848,bank_account,high,Quick update: Please note my bank account number ************-28.,do_not_store
+MSG_0854,one_time_password,high,"Hi, Your OTP is ******-40. It expires in 10 minutes.",do_not_store
+MSG_0880,one_time_password,high,Important: Your OTP is ******-60. It expires in 10 minutes.,do_not_store
+MSG_0890,bank_account,high,One more thing: Please note my bank account number ************-98.,do_not_store
